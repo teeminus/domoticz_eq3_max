@@ -23,7 +23,7 @@ Please refer to the eQ-3 documentation on how to setup the MAX! Cube and how to 
 
 ## Installation
 ### Automatic/GIT
-Navigate to the domoticz/plugins folder and execute the following command: ```git clone ...```
+Navigate to the domoticz/plugins folder and execute the following command: ```git clone https://github.com/teeminus/domoticz_eq3_max.git```
 
 Restart domoticz afterwards.
 
